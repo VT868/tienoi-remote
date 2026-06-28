@@ -1,4 +1,4 @@
-# Chính sách quyền riêng tư - Tiền Ơi
+# Chính sách quyền riêng tư - Tiền Ơi - Vay thông minh
 
 Tiền Ơi là ứng dụng tham khảo và so sánh thông tin đối tác tài chính. Chúng tôi không trực tiếp cho vay, không phê duyệt hồ sơ và không giải ngân.
 
