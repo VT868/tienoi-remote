@@ -89,8 +89,7 @@ final class PartnerStore: ObservableObject {
     @Published var lastUpdatedText = "Dữ liệu mẫu trong app"
     @Published var refreshError: String?
 
-    // Replace this with your hosted JSON endpoint before submitting.
-    private let feedURL = URL(string: "https://example.com/tienoi/partners.json")
+    private let feedURL = URL(string: "https://vt868.github.io/tienoi-remote/partners.json")
 
     func refresh() async {
         guard let feedURL else { return }

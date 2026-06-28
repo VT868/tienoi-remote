@@ -9,7 +9,7 @@ App supports a remote partner feed so partner order, text, limits, and affiliate
 
 ## Publish With GitHub Pages
 
-1. Create a public GitHub repository, for example `TienOi-iOS`.
+1. Create a public GitHub repository, for example `tienoi-remote`.
 2. Push this project to the repository.
 3. Open GitHub repository settings.
 4. Go to `Pages`.
@@ -18,7 +18,7 @@ App supports a remote partner feed so partner order, text, limits, and affiliate
 7. GitHub will publish the feed at:
 
 ```text
-https://<github-username>.github.io/TienOi-iOS/partners.json
+https://<github-username>.github.io/tienoi-remote/partners.json
 ```
 
 8. Replace `feedURL` in `TienOi/ContentView.swift` with that URL before the App Store build.
@@ -34,7 +34,7 @@ Use `logoAsset` for bundled logos already inside the app:
 After GitHub Pages is enabled, you may use `logoURL` for remote logos:
 
 ```json
-"logoURL": "https://<github-username>.github.io/TienOi-iOS/logos/vayvnd.png"
+"logoURL": "https://<github-username>.github.io/tienoi-remote/logos/vayvnd.png"
 ```
 
 Keep the feed transparent and consistent with the app description. Do not use the remote JSON to introduce hidden app behavior or misleading loan claims.
