@@ -1,0 +1,80 @@
+{
+  "updatedAt": "2026-06-28 16:20 +0700",
+  "partners": [
+    {
+      "id": "vayvnd",
+      "name": "VayVND",
+      "category": "Hồ sơ gọn",
+      "tagline": "Nền tảng kết nối nhu cầu tài chính với đối tác phù hợp.",
+      "minAmount": 500000,
+      "maxAmount": 20000000,
+      "minMonths": 3,
+      "maxMonths": 12,
+      "responseTime": "Trong ngày",
+      "requirements": [
+        "Có số điện thoại liên hệ",
+        "Có thông tin cá nhân chính xác",
+        "Đọc điều khoản đối tác trước khi đăng ký"
+      ],
+      "strengths": [
+        "Có thông tin khuyến cáo và điều khoản",
+        "Không tự nhận là tổ chức tín dụng",
+        "Phù hợp nhu cầu khoản nhỏ đến vừa"
+      ],
+      "caution": "VayVND là nền tảng trung gian. Điều kiện cuối cùng, lãi, phí và giải ngân do đối tác/nhà đầu tư quyết định.",
+      "url": "https://go.leadgid.com/aff_c?aff_id=91603&offer_id=5721",
+      "color": "green",
+      "logoAsset": "PartnerVayVND"
+    },
+    {
+      "id": "vaymeo",
+      "name": "VayMèo",
+      "category": "Chi phí thấp",
+      "tagline": "Hiển thị APR 0-36% và thời hạn hoàn trả tối thiểu 91 ngày.",
+      "minAmount": 500000,
+      "maxAmount": 30000000,
+      "minMonths": 3,
+      "maxMonths": 4,
+      "responseTime": "Nhanh",
+      "requirements": [
+        "Chọn số tiền dự kiến",
+        "Cung cấp thông tin cơ bản trên website đối tác",
+        "Xem kỹ đề xuất trước khi tiếp tục"
+      ],
+      "strengths": [
+        "Có disclosure không phải bên cho vay",
+        "Có APR và kỳ hạn rõ",
+        "Dịch vụ so sánh miễn phí cho người dùng"
+      ],
+      "caution": "VayMèo giới thiệu đề xuất từ đối tác. Hồ sơ, hợp đồng và điều kiện cuối cùng thực hiện trên website đối tác.",
+      "url": "https://go.leadgid.com/aff_c?aff_id=91603&offer_id=7065",
+      "color": "blue",
+      "logoAsset": "PartnerVayMeo"
+    },
+    {
+      "id": "cashspace",
+      "name": "Cashspace",
+      "category": "Phản hồi nhanh",
+      "tagline": "So sánh đề xuất đối tác với khoản từ 500.000đ.",
+      "minAmount": 500000,
+      "maxAmount": 20000000,
+      "minMonths": 3,
+      "maxMonths": 4,
+      "responseTime": "15 phút tham khảo",
+      "requirements": [
+        "Chọn số tiền cần tham khảo",
+        "Điền thông tin trên website đối tác",
+        "Đọc kỹ tổng chi phí trước khi quyết định"
+      ],
+      "strengths": [
+        "Có thông tin APR tối đa 36%",
+        "Có kỳ hạn 91-120 ngày",
+        "Có điều khoản và chính sách bảo mật"
+      ],
+      "caution": "Cashspace không trực tiếp cấp khoản vay. Điều kiện cuối cùng do đối tác trên website quyết định.",
+      "url": "https://go.leadgid.com/aff_c?aff_id=91603&offer_id=5881",
+      "color": "amber",
+      "logoAsset": "PartnerCashspace"
+    }
+  ]
+}
